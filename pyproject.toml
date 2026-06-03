@@ -1,12 +1,7 @@
 [project]
 name = "image-generator-suganthv24"
 version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
 requires-python = ">=3.11"
-
-dependencies = [
-    "accelerate",
-    "diffusers",
-    "matplotlib",
-    "safetensors",
-    "transformers>=4.46.3",
-]
+dependencies = []
